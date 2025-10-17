@@ -1,6 +1,6 @@
 # Ignore Jupyter autosaves and workspace files
-.ipynb_checkpoints/
-.jupyter/
+**/.ipynb_checkpoints/
+**/.jupyter/
 
 # Python cache
 __pycache__/
